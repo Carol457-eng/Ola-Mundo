@@ -35,3 +35,14 @@ h1 a:hover {
     background-color: #7e9f19;
     color: #fff;
 }
+
+.place img {
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.clear {
+    clear: both;
+}
