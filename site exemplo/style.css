@@ -55,7 +55,9 @@ h1 a:hover {
 .sidenote {
     background-color: #fffbe4;
     border: 1px solid #c9bc8f;
+    float: right;
     padding: 10px;
+    width: 260px;
 }
 .sidenote h3 {
     font-size: 14px;
@@ -63,4 +65,8 @@ h1 a:hover {
 }
 .sidenote ol {
     font-size: 12px;
+}
+.places {
+   float: left;
+   width: 660px;
 }
